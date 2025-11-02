@@ -1,7 +1,7 @@
 # ⚡ Parallel LLM Comparison Chatbot
 
 A Streamlit-based web app that compares **two AI models side by side** using a **parallel workflow** powered by **LangGraph**.  
-It’s built with `ChatGroq` and `ChatOllama` models running simultaneously for real-time comparison.
+It’s built with Groq's `Compound-beta` and local ollama `qwen3:1.7b` models running simultaneously for real-time comparison.
 
 <img width="1920" height="938" alt="Screenshot 2025-11-02 162953" src="https://github.com/user-attachments/assets/c876cbd1-ed30-4f64-82e6-91045b2bfd21" />
 
@@ -10,7 +10,7 @@ It’s built with `ChatGroq` and `ChatOllama` models running simultaneously for 
 
 ## 🚀 Features
 
-- 🧠 Compare responses from two powerful language models (Groq + Ollama)
+- 🧠 Compare responses from two powerful language models (Compound-beta + Qwen3:1.7b)
 - ⚙️ Built with [LangGraph](https://github.com/langchain-ai/langgraph)
 - 🎨 Interactive Streamlit frontend with chatbot-style input at the bottom
 - 🔄 Parallel execution for real-time response comparison
