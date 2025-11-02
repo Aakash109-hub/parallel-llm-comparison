@@ -83,7 +83,7 @@ http://localhost:8501
 
 Your parallel flow structure is visualized below:
 
-![Parallel Workflow](parallel_workflow_graph.png)
+<img width="295" height="234" alt="parallel_workflow_graph" src="https://github.com/user-attachments/assets/f439e3d6-e3b4-463b-a38c-73d1489e476d" />
 
 ---
 
